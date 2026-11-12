@@ -207,7 +207,7 @@ export default function Home() {
               <div className="lg:col-span-7 lg:pt-12">
                 <Reveal delay={0.06}>
                   <p className="text-2xl font-medium leading-snug tracking-[-0.01em] md:text-3xl">
-                    Somos uma comissão dedicada a proteger mulheres e meninas,
+                    Somos uma organização dedicada a proteger mulheres e meninas,
                     transformar a cultura do jiu-jitsu e incidir sobre
                     estruturas e políticas — dentro das academias, nas
                     competições e em toda a cadeia profissional do esporte.
